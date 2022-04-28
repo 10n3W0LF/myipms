@@ -106,5 +106,5 @@ DEFAULT_REQUEST_HEADERS = {
     'X-Requested-With': 'XMLHttpRequest',
     'sec-ch-ua': '"Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
     'sec-ch-ua-mobile': '?0',     
-    'sec-ch-ua-platform': 'macOS'
+    'sec-ch-ua-platform': 'Windows'
 }
